@@ -5,7 +5,7 @@
 
 Official implementation for IJCV paper [Towards Automated Ethogramming: Cognitively-Inspired Event Segmentation for Wildlife Monitoring](https://ramymounir.com/publications/AutomatedEthogramming/)
 
-![Overview of Kagu](https://github.com/ramyamounir/kagu-torch/blob/main/assets/overview.jpg)
+![Overview of Kagu](https://github.com/ramyamounir/kagu-torch/blob/main/assets/overview.png)
 
 
 ---
