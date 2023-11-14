@@ -11,7 +11,7 @@ setup(
   version=__version__,
   build=__build__,
   author="Ramy Mounir",
-  url="https://ramymounir.com/docs/AutomatedEthogramming/",
+  url="https://ramymounir.com/docs/kagu/",
   description=r"""Official implementation of Towards Automated Ethogramming: Cognitively-Inspired Event Segmentation for Streaming Wildlife Video Monitoring""",
   long_description=long_description,
   long_description_content_type="text/markdown",

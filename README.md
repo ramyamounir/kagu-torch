@@ -14,7 +14,7 @@ Official implementation for IJCV paper [Towards Automated Ethogramming: Cognitiv
 
 ### Documentation
 
-Checkout the [documentation](https://ramymounir.com/docs/AutomatedEthogramming/) of code to learn more details.
+Checkout the [documentation](https://ramymounir.com/docs/kagu/) of code to learn more details.
 
 ### Installation
 
