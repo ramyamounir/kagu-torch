@@ -1,4 +1,4 @@
-exp_name='gpu_001'
+exp_name='slurm_001'
 
 python train.py \
     --dataset data/kagu  \
